@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tecnología &#8211; maracucheando</title>
+	<atom:link href="https://djcastroc.github.io/maracucheando/category/tecnologia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://djcastroc.github.io/maracucheando/</link>
+	<description>Reflexiones cortas, notas de viaje y aprendizajes escritos con calma.</description>
+	<lastBuildDate>Thu, 03 Sep 2026 15:54:55 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+	<item>
+		<title>Cómo empecé este blog con HTML y CSS puro</title>
+		<link>https://djcastroc.github.io/maracucheando/como-empece-este-blog-con-html-y-css-puro/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Tecnología]]></category>
+		<guid isPermaLink="false">https://djcastroc.github.io/maracucheando/como-empece-este-blog-con-html-y-css-puro/</guid>
+
+					<description><![CDATA[Nada de frameworks: solo HTML, CSS y un poco de JavaScript para cargar los posts desde un JSON.]]></description>
+										<content:encoded><![CDATA[<p>Quería un blog que pudiera entender de principio a fin, sin capas de abstracción que no supiera explicar. Así que decidí empezar con lo más simple: tres archivos HTML, una hoja de estilos y un archivo JavaScript.</p>
+<p>La idea es que cada entrada viva en un archivo posts.json. La portada lee ese archivo, arma las tarjetas y las pinta en una grilla.</p>
+<h2>Sin build, sin dependencias</h2>
+<p>No hay build, no hay dependencias que actualizar, no hay servidor que mantener. Se puede publicar en cualquier hosting estático y va a seguir funcionando dentro de cinco años.</p>
+<p>Lo interesante de trabajar así es que cada decisión se nota. Si la página carga lenta, es culpa mía.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

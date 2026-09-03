@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vida &#8211; maracucheando</title>
+	<atom:link href="https://djcastroc.github.io/maracucheando/category/vida/feed/" rel="self" type="application/rss+xml" />
+	<link>https://djcastroc.github.io/maracucheando/</link>
+	<description>Reflexiones cortas, notas de viaje y aprendizajes escritos con calma.</description>
+	<lastBuildDate>Thu, 03 Sep 2026 15:54:55 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+	<item>
+		<title>Lo que aprendí escribiendo todos los días</title>
+		<link>https://djcastroc.github.io/maracucheando/lo-que-aprendi-escribiendo-todos-los-dias/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Vida]]></category>
+		<guid isPermaLink="false">https://djcastroc.github.io/maracucheando/lo-que-aprendi-escribiendo-todos-los-dias/</guid>
+
+					<description><![CDATA[Reflexiones sobre mantener un hábito de escritura constante durante un mes.]]></description>
+										<content:encoded><![CDATA[<p>Me propuse escribir algo todos los días durante un mes. No necesariamente publicar, solo escribir. Trescientas palabras, aunque fueran malas.</p>
+<p>La primera semana fue fácil porque tenía ideas guardadas. La segunda fue la más difícil: se acabaron las ideas cómodas.</p>
+<blockquote><p>Escribir no es transcribir lo que ya pensaste. Es la forma de pensarlo.</p></blockquote>
+<p>Al final del mes no tenía treinta textos publicables. Tenía cuatro o cinco que valían la pena. Me parece un buen intercambio.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

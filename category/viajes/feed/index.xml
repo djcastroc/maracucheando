@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Viajes &#8211; maracucheando</title>
+	<atom:link href="https://djcastroc.github.io/maracucheando/category/viajes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://djcastroc.github.io/maracucheando/</link>
+	<description>Reflexiones cortas, notas de viaje y aprendizajes escritos con calma.</description>
+	<lastBuildDate>Thu, 03 Sep 2026 15:54:55 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+	<item>
+		<title>Tres días en la costa: notas de viaje</title>
+		<link>https://djcastroc.github.io/maracucheando/tres-dias-en-la-costa-notas-de-viaje/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Viajes]]></category>
+		<guid isPermaLink="false">https://djcastroc.github.io/maracucheando/tres-dias-en-la-costa-notas-de-viaje/</guid>
+
+					<description><![CDATA[Un resumen corto de un viaje reciente, con lugares para comer y rutas que valen la pena.]]></description>
+										<content:encoded><![CDATA[<p>Salimos temprano, antes de que el calor apretara. La carretera hacia la costa tiene ese tramo largo y recto donde no hay mucho que ver, pero después se abre y aparece el agua.</p>
+<p>El primer día lo dedicamos a caminar sin plan. Encontramos un sitio pequeño donde hacían pescado frito con patacones, y terminamos volviendo las tres noches.</p>
+<p>El último día no hicimos nada. A veces ese es el mejor plan de todos.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
